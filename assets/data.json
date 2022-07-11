@@ -1,16 +1,22 @@
 [
 
     {
-       "title" : "What is computer ?",
-       "subtitle" : "อธิบายเกี่ยวกับคอมพิวเตอร์",
-       "image_url": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+       "title" : "What is computer",
+       "subtitle" : "computer",
+       "image_url": "",
        "detail": "A computer is a digital electronic machine that can be programmed to carry out sequences of arithmetic or logical operations (computation) automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks"
     },
     {
        "title" : "What is programming ?",
-       "subtitle" : "อธิบายเกี่ยวกับprogramming",
-       "image_url": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+       "subtitle" : "programming",
+       "image_url": "",
        "detail":"Computer programming is the process of performing a particular computation (or more generally, accomplishing a specific computing result), usually by designing and building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a chosen programming language, commonly referred to as coding)."
+    },
+    {
+       "title" : "What is flutter",
+       "subtitle" : "flutter",
+       "image_url" : "",
+       "detail" : "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase."
     }
 
 ]
