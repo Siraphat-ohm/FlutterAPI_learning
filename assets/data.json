@@ -1,0 +1,16 @@
+[
+
+    {
+       "title" : "What is computer ?",
+       "subtitle" : "อธิบายเกี่ยวกับคอมพิวเตอร์",
+       "image_url": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+       "detail": "A computer is a digital electronic machine that can be programmed to carry out sequences of arithmetic or logical operations (computation) automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks"
+    },
+    {
+       "title" : "What is programming ?",
+       "subtitle" : "อธิบายเกี่ยวกับprogramming",
+       "image_url": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+       "detail":"Computer programming is the process of performing a particular computation (or more generally, accomplishing a specific computing result), usually by designing and building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a chosen programming language, commonly referred to as coding)."
+    }
+
+]
